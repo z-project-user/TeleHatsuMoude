@@ -1,19 +1,9 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # プライバシーポリシー
 
-個人情報は取得しません
-広告表示のためなどにログを取得しますが、個人情報は含まれません
+> 個人情報は取得しません
+> 広告表示のためなどにログを取得しますが、個人情報は含まれません
 
 ## Header 2
 
