@@ -10,9 +10,10 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# プライバシーポリシー
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+個人情報は取得しません
+広告表示のためなどにログを取得しますが、個人情報は含まれません
 
 ## Header 2
 
